@@ -1,4 +1,4 @@
-# Hi, I'm <Talari Ramcharan> 👋
+# Hi, I'm Talari Ramcharan 👋
 
 > Short one-liner about what you do — e.g. "I build backend systems with Go and scalable cloud infra."
 
